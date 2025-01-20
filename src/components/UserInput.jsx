@@ -12,7 +12,7 @@ export default function UserInput({ onChange, userInput }) {
               onChange('initialInvestment', event.target.value)
             }
           />
-        </p>
+        </p> <p>Hello</p>
         <p>
           <label>Annual Investment</label>
           <input
